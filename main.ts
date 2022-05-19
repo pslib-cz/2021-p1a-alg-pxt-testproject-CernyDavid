@@ -1,4 +1,4 @@
-basic.showIcon(IconNames.Heart)
+basic.showIcon(IconNames.Diamond)
 basic.forever(function on_forever() {
     
 })
